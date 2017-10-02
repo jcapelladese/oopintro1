@@ -51,7 +51,7 @@ public class IsoscelesTest {
 
 	@Test
 	public final void test() {
-		a;
+	
 	}
 
 }
